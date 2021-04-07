@@ -1,3 +1,3 @@
 # PHP-changeBooks-CRUD-
 
-fontawsome需另下載至本地端
+fontawsome需另外下載
